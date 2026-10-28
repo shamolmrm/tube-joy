@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Puzle de ordenar colores</string>
+
+    <string name="mode_water">Ordenar agua</string>
+    <string name="mode_ball">Ordenar bolas</string>
+    <string name="mode_nut">Ordenar tuercas</string>
+    <string name="mode_water_desc">Vierte cada color en su propio tubo</string>
+    <string name="mode_ball_desc">Apila las bolas por color</string>
+    <string name="mode_nut_desc">Enrosca las tuercas en su tornillo</string>
+    <string name="level_n">Nivel %1$d</string>
+    <string name="play">Jugar</string>
+
+    <string name="daily_title">Reto diario</string>
+    <string name="daily_reward">Gana %1$d monedas</string>
+    <string name="daily_done">¡Hecho! Nuevo reto mañana</string>
+
+    <string name="themes">Temas</string>
+    <string name="settings">Ajustes</string>
+    <string name="back">Atrás</string>
+
+    <string name="hard_level">DIFÍCIL</string>
+    <string name="mystery">Misterio</string>
+    <string name="undo">Deshacer</string>
+    <string name="restart">Reiniciar</string>
+    <string name="hint">Pista</string>
+    <string name="add_tube">+ Tubo</string>
+
+    <string name="level_complete">¡Nivel superado!</string>
+    <string name="daily_complete">¡Reto superado!</string>
+    <string name="next_level">Siguiente nivel</string>
+    <string name="continue_">Continuar</string>
+    <string name="claim_x3">Reclamar ×3</string>
+    <string name="earned">+%1$d</string>
+
+    <string name="no_moves">No quedan movimientos</string>
+    <string name="no_moves_body">Deshaz un movimiento, añade un tubo o vuelve a intentarlo.</string>
+    <string name="try_again">Reintentar</string>
+    <string name="ad_not_ready">No hay vídeo ahora mismo. Inténtalo de nuevo en un momento.</string>
+    <string name="not_enough_coins">No tienes suficientes monedas</string>
+    <string name="hint_none">No hay pista aquí. Prueba a deshacer un movimiento.</string>
+    <string name="watch_or_pay">Mira un vídeo corto o usa %1$d monedas</string>
+    <string name="watch_video">Ver vídeo</string>
+    <string name="use_coins">Usar %1$d monedas</string>
+    <string name="get_hint">Conseguir una pista</string>
+    <string name="get_tube">Conseguir un tubo extra</string>
+    <string name="get_undos">5 deshacer más</string>
+    <string name="cancel">Cancelar</string>
+    <string name="music">Música</string>
+
+    <string name="sound">Sonido</string>
+    <string name="vibration">Vibración</string>
+    <string name="color_symbols">Símbolos de color</string>
+    <string name="color_symbols_desc">Muestra una forma en cada color, para jugadores daltónicos</string>
+    <string name="privacy_options">Opciones de privacidad</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="version">Versión %1$s</string>
+
+    <string name="theme_midnight">Medianoche</string>
+    <string name="theme_ocean">Océano</string>
+    <string name="theme_sunset">Atardecer</string>
+    <string name="theme_forest">Bosque</string>
+    <string name="theme_candy">Caramelo</string>
+    <string name="selected">Elegido</string>
+    <string name="use">Usar</string>
+</resources>

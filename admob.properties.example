@@ -1,0 +1,6 @@
+# Copy to admob.properties (git-ignored) and fill in the ids from AdMob → Apps → Tube Joy.
+# The Play bundle refuses to build without the real file, so test ads can't ship by accident.
+appId=ca-app-pub-2787796580971664~0000000000
+rewardedUnitId=ca-app-pub-2787796580971664/0000000000
+interstitialUnitId=ca-app-pub-2787796580971664/0000000000
+bannerUnitId=ca-app-pub-2787796580971664/0000000000

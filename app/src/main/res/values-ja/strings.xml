@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">カラーソートパズル</string>
+
+    <string name="mode_water">ウォーターソート</string>
+    <string name="mode_ball">ボールソート</string>
+    <string name="mode_nut">ナットソート</string>
+    <string name="mode_water_desc">同じ色を一つの試験管にまとめよう</string>
+    <string name="mode_ball_desc">ボールを色ごとに積み上げよう</string>
+    <string name="mode_nut_desc">ナットを同じ色のボルトへ</string>
+    <string name="level_n">レベル %1$d</string>
+    <string name="play">プレイ</string>
+
+    <string name="daily_title">デイリーチャレンジ</string>
+    <string name="daily_reward">%1$d コインを獲得</string>
+    <string name="daily_done">クリア！明日も新しいチャレンジ</string>
+
+    <string name="themes">テーマ</string>
+    <string name="settings">設定</string>
+    <string name="back">戻る</string>
+
+    <string name="hard_level">ハード</string>
+    <string name="mystery">ミステリー</string>
+    <string name="undo">戻す</string>
+    <string name="restart">やり直し</string>
+    <string name="hint">ヒント</string>
+    <string name="add_tube">＋試験管</string>
+
+    <string name="level_complete">レベルクリア！</string>
+    <string name="daily_complete">チャレンジ達成！</string>
+    <string name="next_level">次のレベル</string>
+    <string name="continue_">続ける</string>
+    <string name="claim_x3">3倍もらう</string>
+    <string name="earned">+%1$d</string>
+
+    <string name="no_moves">動かせる手がありません</string>
+    <string name="no_moves_body">1手戻す、試験管を追加する、またはやり直しましょう。</string>
+    <string name="try_again">やり直す</string>
+    <string name="ad_not_ready">現在動画がありません。少し待ってからお試しください。</string>
+    <string name="not_enough_coins">コインが足りません</string>
+    <string name="hint_none">ヒントが見つかりません。1手戻してみましょう。</string>
+    <string name="watch_or_pay">短い動画を見るか、%1$d コインを使います</string>
+    <string name="watch_video">動画を見る</string>
+    <string name="use_coins">%1$d コインを使う</string>
+    <string name="get_hint">ヒントをもらう</string>
+    <string name="get_tube">試験管を追加</string>
+    <string name="get_undos">戻すを5回追加</string>
+    <string name="cancel">キャンセル</string>
+    <string name="music">音楽</string>
+
+    <string name="sound">サウンド</string>
+    <string name="vibration">バイブレーション</string>
+    <string name="color_symbols">カラー記号</string>
+    <string name="color_symbols_desc">色覚に配慮して、各色に記号を表示します</string>
+    <string name="privacy_options">プライバシー設定</string>
+    <string name="privacy_policy">プライバシーポリシー</string>
+    <string name="version">バージョン %1$s</string>
+
+    <string name="theme_midnight">ミッドナイト</string>
+    <string name="theme_ocean">オーシャン</string>
+    <string name="theme_sunset">サンセット</string>
+    <string name="theme_forest">フォレスト</string>
+    <string name="theme_candy">キャンディ</string>
+    <string name="selected">選択中</string>
+    <string name="use">使う</string>
+</resources>

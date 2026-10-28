@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Quebra-cabeça de cores</string>
+
+    <string name="mode_water">Ordenar água</string>
+    <string name="mode_ball">Ordenar bolas</string>
+    <string name="mode_nut">Ordenar porcas</string>
+    <string name="mode_water_desc">Despeje cada cor no seu tubo</string>
+    <string name="mode_ball_desc">Empilhe as bolas por cor</string>
+    <string name="mode_nut_desc">Rosqueie as porcas no parafuso certo</string>
+    <string name="level_n">Nível %1$d</string>
+    <string name="play">Jogar</string>
+
+    <string name="daily_title">Desafio diário</string>
+    <string name="daily_reward">Ganhe %1$d moedas</string>
+    <string name="daily_done">Feito! Novo desafio amanhã</string>
+
+    <string name="themes">Temas</string>
+    <string name="settings">Configurações</string>
+    <string name="back">Voltar</string>
+
+    <string name="hard_level">DIFÍCIL</string>
+    <string name="mystery">Mistério</string>
+    <string name="undo">Desfazer</string>
+    <string name="restart">Reiniciar</string>
+    <string name="hint">Dica</string>
+    <string name="add_tube">+ Tubo</string>
+
+    <string name="level_complete">Nível concluído!</string>
+    <string name="daily_complete">Desafio concluído!</string>
+    <string name="next_level">Próximo nível</string>
+    <string name="continue_">Continuar</string>
+    <string name="claim_x3">Pegar ×3</string>
+    <string name="earned">+%1$d</string>
+
+    <string name="no_moves">Sem jogadas</string>
+    <string name="no_moves_body">Desfaça uma jogada, adicione um tubo ou tente de novo.</string>
+    <string name="try_again">Tentar de novo</string>
+    <string name="ad_not_ready">Nenhum vídeo agora. Tente novamente em instantes.</string>
+    <string name="not_enough_coins">Moedas insuficientes</string>
+    <string name="hint_none">Sem dica aqui. Tente desfazer uma jogada.</string>
+    <string name="watch_or_pay">Veja um vídeo curto ou use %1$d moedas</string>
+    <string name="watch_video">Ver vídeo</string>
+    <string name="use_coins">Usar %1$d moedas</string>
+    <string name="get_hint">Pegar uma dica</string>
+    <string name="get_tube">Pegar um tubo extra</string>
+    <string name="get_undos">Mais 5 desfazer</string>
+    <string name="cancel">Cancelar</string>
+    <string name="music">Música</string>
+
+    <string name="sound">Som</string>
+    <string name="vibration">Vibração</string>
+    <string name="color_symbols">Símbolos de cor</string>
+    <string name="color_symbols_desc">Mostra uma forma em cada cor, para jogadores daltônicos</string>
+    <string name="privacy_options">Opções de privacidade</string>
+    <string name="privacy_policy">Política de privacidade</string>
+    <string name="version">Versão %1$s</string>
+
+    <string name="theme_midnight">Meia-noite</string>
+    <string name="theme_ocean">Oceano</string>
+    <string name="theme_sunset">Pôr do sol</string>
+    <string name="theme_forest">Floresta</string>
+    <string name="theme_candy">Doce</string>
+    <string name="selected">Escolhido</string>
+    <string name="use">Usar</string>
+</resources>

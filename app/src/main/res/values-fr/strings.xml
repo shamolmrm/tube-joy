@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Puzzle de tri des couleurs</string>
+
+    <string name="mode_water">Tri de l\'eau</string>
+    <string name="mode_ball">Tri de balles</string>
+    <string name="mode_nut">Tri d\'écrous</string>
+    <string name="mode_water_desc">Verse chaque couleur dans son tube</string>
+    <string name="mode_ball_desc">Empile les balles par couleur</string>
+    <string name="mode_nut_desc">Visse les écrous sur le bon boulon</string>
+    <string name="level_n">Niveau %1$d</string>
+    <string name="play">Jouer</string>
+
+    <string name="daily_title">Défi du jour</string>
+    <string name="daily_reward">Gagne %1$d pièces</string>
+    <string name="daily_done">Réussi ! Nouveau défi demain</string>
+
+    <string name="themes">Thèmes</string>
+    <string name="settings">Paramètres</string>
+    <string name="back">Retour</string>
+
+    <string name="hard_level">DIFFICILE</string>
+    <string name="mystery">Mystère</string>
+    <string name="undo">Annuler</string>
+    <string name="restart">Recommencer</string>
+    <string name="hint">Indice</string>
+    <string name="add_tube">+ Tube</string>
+
+    <string name="level_complete">Niveau terminé !</string>
+    <string name="daily_complete">Défi réussi !</string>
+    <string name="next_level">Niveau suivant</string>
+    <string name="continue_">Continuer</string>
+    <string name="claim_x3">Récupérer ×3</string>
+    <string name="earned">+%1$d</string>
+
+    <string name="no_moves">Plus aucun coup</string>
+    <string name="no_moves_body">Annule un coup, ajoute un tube ou recommence.</string>
+    <string name="try_again">Réessayer</string>
+    <string name="ad_not_ready">Aucune vidéo pour le moment. Réessaie dans un instant.</string>
+    <string name="not_enough_coins">Pas assez de pièces</string>
+    <string name="hint_none">Pas d\'indice ici. Essaie d\'annuler un coup.</string>
+    <string name="watch_or_pay">Regarde une courte vidéo ou utilise %1$d pièces</string>
+    <string name="watch_video">Voir la vidéo</string>
+    <string name="use_coins">Utiliser %1$d pièces</string>
+    <string name="get_hint">Obtenir un indice</string>
+    <string name="get_tube">Obtenir un tube</string>
+    <string name="get_undos">5 annulations de plus</string>
+    <string name="cancel">Annuler</string>
+    <string name="music">Musique</string>
+
+    <string name="sound">Son</string>
+    <string name="vibration">Vibration</string>
+    <string name="color_symbols">Symboles de couleur</string>
+    <string name="color_symbols_desc">Affiche une forme sur chaque couleur, pour les joueurs daltoniens</string>
+    <string name="privacy_options">Options de confidentialité</string>
+    <string name="privacy_policy">Politique de confidentialité</string>
+    <string name="version">Version %1$s</string>
+
+    <string name="theme_midnight">Minuit</string>
+    <string name="theme_ocean">Océan</string>
+    <string name="theme_sunset">Coucher de soleil</string>
+    <string name="theme_forest">Forêt</string>
+    <string name="theme_candy">Bonbon</string>
+    <string name="selected">Choisi</string>
+    <string name="use">Utiliser</string>
+</resources>

@@ -1,0 +1,18 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+build/
+
+# Secrets and real ids: never committed (see docs/RELEASE.md)
+keystore.properties
+admob.properties
+*.jks
+*.keystore
+google-services.json

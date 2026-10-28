@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">Farben-Sortierpuzzle</string>
+
+    <string name="mode_water">Wasser sortieren</string>
+    <string name="mode_ball">Bälle sortieren</string>
+    <string name="mode_nut">Muttern sortieren</string>
+    <string name="mode_water_desc">Gieße jede Farbe in ein eigenes Glas</string>
+    <string name="mode_ball_desc">Staple die Bälle nach Farbe</string>
+    <string name="mode_nut_desc">Dreh die Muttern auf passende Schrauben</string>
+    <string name="level_n">Level %1$d</string>
+    <string name="play">Spielen</string>
+
+    <string name="daily_title">Tägliche Herausforderung</string>
+    <string name="daily_reward">Gewinne %1$d Münzen</string>
+    <string name="daily_done">Geschafft! Morgen gibt es eine neue</string>
+
+    <string name="themes">Designs</string>
+    <string name="settings">Einstellungen</string>
+    <string name="back">Zurück</string>
+
+    <string name="hard_level">SCHWER</string>
+    <string name="mystery">Mysterium</string>
+    <string name="undo">Zurück</string>
+    <string name="restart">Neustart</string>
+    <string name="hint">Tipp</string>
+    <string name="add_tube">+ Glas</string>
+
+    <string name="level_complete">Level geschafft!</string>
+    <string name="daily_complete">Herausforderung geschafft!</string>
+    <string name="next_level">Nächstes Level</string>
+    <string name="continue_">Weiter</string>
+    <string name="claim_x3">×3 holen</string>
+    <string name="earned">+%1$d</string>
+
+    <string name="no_moves">Keine Züge mehr</string>
+    <string name="no_moves_body">Mach einen Zug rückgängig, nimm ein extra Glas oder versuch es neu.</string>
+    <string name="try_again">Nochmal</string>
+    <string name="ad_not_ready">Gerade kein Video verfügbar. Bitte versuch es gleich noch einmal.</string>
+    <string name="not_enough_coins">Nicht genug Münzen</string>
+    <string name="hint_none">Kein Tipp möglich. Mach einen Zug rückgängig.</string>
+    <string name="watch_or_pay">Sieh ein kurzes Video oder zahle %1$d Münzen</string>
+    <string name="watch_video">Video ansehen</string>
+    <string name="use_coins">%1$d Münzen zahlen</string>
+    <string name="get_hint">Tipp holen</string>
+    <string name="get_tube">Extra Glas holen</string>
+    <string name="get_undos">5 weitere Rückgängig</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="music">Musik</string>
+
+    <string name="sound">Ton</string>
+    <string name="vibration">Vibration</string>
+    <string name="color_symbols">Farbsymbole</string>
+    <string name="color_symbols_desc">Zeigt auf jeder Farbe ein Symbol, für farbenblinde Spieler</string>
+    <string name="privacy_options">Datenschutzoptionen</string>
+    <string name="privacy_policy">Datenschutzerklärung</string>
+    <string name="version">Version %1$s</string>
+
+    <string name="theme_midnight">Mitternacht</string>
+    <string name="theme_ocean">Ozean</string>
+    <string name="theme_sunset">Sonnenuntergang</string>
+    <string name="theme_forest">Wald</string>
+    <string name="theme_candy">Bonbon</string>
+    <string name="selected">Ausgewählt</string>
+    <string name="use">Nutzen</string>
+</resources>
